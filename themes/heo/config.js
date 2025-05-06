@@ -20,10 +20,10 @@ const CONFIG = {
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '分享策略',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'piscesman.top',
+  HEO_HERO_TITLE_3: 'Piscesman.Top',
   HEO_HERO_TITLE_4: '建设中……',
   HEO_HERO_TITLE_5: '双鱼说交易建设中……',
-  HEO_HERO_TITLE_LINK: 'https://www.piscesman.top',
+  HEO_HERO_TITLE_LINK: 'https://piscesman.top',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
